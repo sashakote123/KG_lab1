@@ -1,16 +1,11 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "2726e6d7-0e3e-4a28-8e7d-567fd36e2fcc": {
-      "ProjectGuid": "2726e6d7-0e3e-4a28-8e7d-567fd36e2fcc",
-      "DisplayName": "WindowsFormsApp1",
-      "ColorIndex": 0
-    },
-    "888a90f8-b71f-4e47-80b4-8c8ba4d9b2e2": {
-      "ProjectGuid": "888a90f8-b71f-4e47-80b4-8c8ba4d9b2e2",
-      "DisplayName": "Solution Items",
-      "ColorIndex": 1
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 0
 }
